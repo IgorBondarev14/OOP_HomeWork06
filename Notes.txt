@@ -1,0 +1,5 @@
+1, Fruit, Apple, Pineapple, Pen
+2, Vegetable, Tomato, Cucumber, Radish
+3, Nut, Almond, Peanut, Hazelnut
+5, Alcohol, Beer, Vodka, Vine
+6, Spice, Solt, Pepper, Cardamon
